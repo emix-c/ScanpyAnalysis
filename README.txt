@@ -1,0 +1,2 @@
+Using Scanpy and sci-kit tools to analyze scRNA seg data of peripheral blood mononuclear cells from 6 patients: 3 with diabetic retinopathy (DR) and three with non-diabetic retinopathy (NDR). Performed QC and doublet finding, integration, and discovered key markers to annotate cell clusters. Identified top DE genes across conditions for each cell type using Wilcoxon rank-sum method. 
+Data from GSE248284. 
